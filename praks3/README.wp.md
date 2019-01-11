@@ -24,4 +24,4 @@ Panen pehape.php faili kausta /home/it/public_html
 
 Loon samasse kausta faili info.php ning kirjutan sinna sisse rea:
 
-<?php phpinfo(); ?>
+' <?php phpinfo(); ?> '
