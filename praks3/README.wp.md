@@ -21,3 +21,7 @@ Siis saab minna veebiaadresile ning panna kaldkriibs ja pann .php faili nimi.
 Kui 'phpmyadmin' on paigaldatud,s iis tuleb veebilehes minna serveri_ip/phpmyadmin
 
 Panen pehape.php faili kausta /home/it/public_html
+
+Loon samasse kausta faili info.php ning kirjutan sinna sisse rea:
+
+<?php phpinfo(); ?>
